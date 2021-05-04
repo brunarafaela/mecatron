@@ -1,0 +1,44 @@
+[09-Sep-2020 01:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/home.php on line 1
+[09-Sep-2020 14:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/meus.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/meus.php on line 1
+[10-Sep-2020 14:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/edit.php on line 1
+[12-Sep-2020 01:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php on line 1
+[12-Sep-2020 05:04:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/home.php on line 1
+[13-Sep-2020 18:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/edit.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/edit.php on line 1
+[27-Sep-2020 15:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php on line 1
+[28-Sep-2020 07:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/meus.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/meus.php on line 1
+[30-Sep-2020 13:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php on line 1
+[03-Oct-2020 16:56:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/home.php on line 1
+[12-Oct-2020 16:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Holerite/listar.php on line 1

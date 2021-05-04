@@ -1,0 +1,28 @@
+[12-Sep-2020 05:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php on line 1
+[12-Sep-2020 08:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Dashboard/bemvindo.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Dashboard/bemvindo.php on line 1
+[15-Sep-2020 12:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php on line 1
+[15-Sep-2020 15:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Dashboard/bemvindo.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Dashboard/bemvindo.php on line 1
+[30-Sep-2020 18:23:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php on line 1
+[03-Oct-2020 21:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Dashboard/bemvindo.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Dashboard/bemvindo.php on line 1
+[27-Oct-2020 01:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Dashboard/preferences.php on line 1

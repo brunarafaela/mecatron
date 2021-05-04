@@ -1,0 +1,24 @@
+[19-Aug-2020 15:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php on line 1
+[06-Sep-2020 14:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php on line 1
+[25-Sep-2020 10:17:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php on line 1
+[07-Oct-2020 08:43:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php on line 1
+[21-Oct-2020 20:20:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php on line 1
+[27-Dec-2020 00:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Noticias/index.php on line 1

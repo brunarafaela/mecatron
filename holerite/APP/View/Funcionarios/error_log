@@ -1,0 +1,36 @@
+[23-Aug-2020 11:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php on line 1
+[25-Aug-2020 01:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php on line 1
+[28-Sep-2020 01:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php on line 1
+[29-Sep-2020 08:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php on line 1
+[02-Oct-2020 07:27:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php on line 1
+[13-Oct-2020 01:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php on line 1
+[15-Oct-2020 21:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php on line 1
+[27-Oct-2020 08:20:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/home.php on line 1
+[28-Oct-2020 16:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includePartial() in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/brunaraf/public_html/holerite/APP/View/Funcionarios/editar.php on line 1
